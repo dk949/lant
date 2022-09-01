@@ -1,0 +1,10 @@
+{
+  "name": "lant",
+  "version-string": "0.1.0",
+  "description": "",
+  "dependencies": [
+    "fmt",
+    "raylib"
+  ],
+  "$url": ""
+}
