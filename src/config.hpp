@@ -15,10 +15,10 @@ public:
     static constexpr auto background = BEIGE;
     static constexpr auto foreground = LIME;
     static constexpr auto uiRigthPad = 15;
-    static constexpr char const *title = "testing";
+    static constexpr char const *title = "Lant";
 
-    static inline int screenWidth = 1920 / 2;
-    static inline int screenHeight = 1080 / 2;
+    static inline int screenWidth = 3840;
+    static inline int screenHeight = 2160;
     static inline bool initFullScreen = false;
     static inline int screenSize;
     static inline int fontSize = 30;
