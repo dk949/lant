@@ -1,5 +1,7 @@
 # Lant
 
+![gif](gif.gif)
+
 Visualisation of
 [Langton's\_ant](https://en.wikipedia.org/wiki/Langton%27s_ant).
 
